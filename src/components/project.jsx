@@ -121,7 +121,7 @@ export default function ProjectsSection() {
         "Mobile responsive layout",
         "Deployed via Vercel"
       ],
-      github: "https://github.com/dipsitarout",
+      github: "https://github.com/dipsitarout/Ieee_website_final",
       live: "https://ieeephotonicssociety.vercel.app",
       image: ieee,
       gradient: "from-purple-500 via-pink-500 to-yellow-500",
@@ -141,7 +141,7 @@ export default function ProjectsSection() {
         "Minimalist UI focused on speed & clarity",
         "Catered for beginners and experts alike"
       ],
-      github: "https://github.com/dipsitarout",
+      github: "https://github.com/dipsitarout/CROSSCODES",
       live: "https://crosscodes.vercel.app",
       image: crosscodes,
       gradient: "from-indigo-500 via-blue-500 to-cyan-500",
